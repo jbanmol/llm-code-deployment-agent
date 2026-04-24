@@ -10,6 +10,12 @@ pinned: false
 
 # LLM Code Deployment Agent
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Agent_Service-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?logo=docker&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Automation-181717?logo=github&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-Code_Generation-7C3AED)
+
 FastAPI service that receives natural-language app-building tasks, uses an LLM to generate or modify code, and deploys generated outputs through GitHub Pages.
 
 ## What This Demonstrates
